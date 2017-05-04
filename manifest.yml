@@ -4,10 +4,21 @@ applications:
   instances: 1
   domain: mybluemix.net
 <<<<<<< Upstream, based on 8efbcf144d32e8d744872781adbb20a58c5827c9
+<<<<<<< Upstream, based on 8efbcf144d32e8d744872781adbb20a58c5827c9
   name: CloudSemana06Chumpi
   host: CloudSemana06Chumpi
 =======
+=======
+<<<<<<< Upstream, based on feb8bc9614c12ad177dd28e4f4dae2f7d4dc9413
+>>>>>>> 0a57676 Add starter application package
   name: practicandoAndo2017chumpi
   host: practicandoAndo2017chumpi
+<<<<<<< Upstream, based on 8efbcf144d32e8d744872781adbb20a58c5827c9
 >>>>>>> feb8bc9 Add starter application package
+=======
+=======
+  name: CloudSemana06Chumpi
+  host: CloudSemana06Chumpi
+>>>>>>> 8efbcf1 Add starter application package
+>>>>>>> 0a57676 Add starter application package
   disk_quota: 1024M
