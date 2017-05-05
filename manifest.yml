@@ -3,6 +3,11 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
+<<<<<<< Upstream, based on 8efbcf144d32e8d744872781adbb20a58c5827c9
   name: CloudSemana06Chumpi
   host: CloudSemana06Chumpi
+=======
+  name: practicandoAndo2017chumpi
+  host: practicandoAndo2017chumpi
+>>>>>>> feb8bc9 Add starter application package
   disk_quota: 1024M
